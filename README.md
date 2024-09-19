@@ -3,7 +3,7 @@ Classification of the sentiment of tweets in the Sentiment140 dataset using a ba
 
 # About the project
 Classification of the sentiment (positive / negative) of tweets in the Sentiment140 dataset using a basic neural network.
-This is a Google Colab notebook to analyze and classify the sentiment of tweets in the Sentiment140 dataset. The data is first cleaned, normlized, and preprocessed. A simple neural network is used to implement the model for the binary classification of text. The model performs fairly well and achieves an accuracy of about 81%.
+This is a Google Colab notebook to analyze and classify the sentiment of tweets in the Sentiment140 dataset. The data is first cleaned, normalized, and preprocessed. A simple neural network is used to implement the model for the binary classification of text. The model performs fairly well and achieves an accuracy of about 81%.
 
 # Tools Used
 Tools and libraries used in this project include TensorFlow, Keras, pandas, csv, NumPy, scikit-learn, Matplotlib, and seaborn.
