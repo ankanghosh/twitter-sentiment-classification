@@ -15,7 +15,7 @@ Anyone can use the project to get started with the basics of sentiment analysis 
 Anyone interested in getting started with Machine Learning, Deep Learning, or Natural Language Processing, specifically, sentiment analysis or binary classification using text data and TensorFlow and neural networks, can clone or download the project to get started.
 
 # References
-The most important point of reference for the project is the TensorFlow tutorial on using basic text classification to perform sentiment analysis. Link [here]([https://www.tensorflow.org/tutorials/keras/regression](https://www.tensorflow.org/tutorials/keras/text_classification)).
+The most important point of reference for the project is the TensorFlow tutorial on using basic text classification to perform sentiment analysis. Link [here](https://www.tensorflow.org/tutorials/keras/regression](https://www.tensorflow.org/tutorials/keras/text_classification).
 
 # Additional Notes
 1. The dataset is available [here](http://cs.stanford.edu/people/alecmgo/trainingandtestdata.zip). If the dataset is taken down in the future, please feel free to reach out to me at ankanatwork@gmail.com if you would like to learn more about the data. However, I may not be able to share the dataset with you due to licensing restrictions.
